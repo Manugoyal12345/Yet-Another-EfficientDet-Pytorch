@@ -1,5 +1,6 @@
-# DFUC 2020 Challenge
+# DFUC 2020 Challenge in Miccai 2020
 https://dfu2020.grand-challenge.org
+https://miccai2020.org/en/
 
 # Yet Another EfficientDet Pytorch
 
