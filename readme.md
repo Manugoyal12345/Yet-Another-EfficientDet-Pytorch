@@ -1,3 +1,6 @@
+# DFUC 2020 Challenge
+https://dfu2020.grand-challenge.org
+
 # Yet Another EfficientDet Pytorch
 
 The pytorch re-implement of the official [EfficientDet](https://github.com/google/automl/tree/master/efficientdet) with SOTA performance in real time, original paper link: <https://arxiv.org/abs/1911.09070>
